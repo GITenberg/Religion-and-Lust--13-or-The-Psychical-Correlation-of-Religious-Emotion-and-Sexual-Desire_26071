@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24805'
     url: http://www.gutenberg.org/2009/agents/24805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26071#Religion-and-Lust--13-or-The-Psychical-Correlation-of-Religious-Emotion-and-Sexual-Desire
 gutenberg_issued: '2008-07-16'
 gutenberg_type: Text
 identifiers:
